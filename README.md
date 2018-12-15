@@ -10,17 +10,20 @@ But how about just an informal chat over a coffee with someone who shares your i
 
 Lets Have Coffee aims to co-ordinate people so they can meet one-on-one in real life for an informal discussion about their shared interest.
 
-# Outcomes Goals
+# Outcomes / Goals
 
 I'm looking to get as much feedback as possible on this project to steer this in the direction where it would be useful to as many people as I can. With this in mind, I aim to make as much of this project open-source as possible, taking an MVP approach with the aim of getting feedback and steering the project in the right way.
 
 Ideas so far for implementation...
 
--The project will take the form of a mobile app (iOS and Android), with back-end server online for shared data. 
--Use Firebase for back-end users/Event tracking (Using the Frameworks/APIs provided and/or REST API with functions in TS)
--Keep to Best Practises as much as possible (Testing, clean code architectures)
--iOS using Swift
--Cross platform with Angular (I want to learn this!)
--Android using Kotlain
+- The project will take the form of a mobile app (iOS and Android), with back-end server online for shared data. 
+- Use Firebase for back-end users/Event tracking (Using the Frameworks/APIs provided and/or REST API with functions in TS)
+- Keep to Best Practises as much as possible (Testing, clean code architectures)
+- iOS using Swift
+- Cross platform with Angular (I want to learn this!)
+- Android using Kotlain
 
 I'll be updating this with links to github repos for the individual projects, but use this as a central repo for documentation for the entire project
+
+# About Martin
+I'm a programmer in London with a bit of spare time. Give me a shout if you want to talk about this project. We can meet for a coffee! martin@martinogg.com
