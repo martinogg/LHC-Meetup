@@ -25,5 +25,7 @@ Ideas so far for implementation...
 
 I'll be updating this with links to github repos for the individual projects, but use this as a central repo for documentation for the entire project
 
+Check out https://trello.com/b/A3xLhbEd/lhc-lets-have-coffee for the trello project I'm making for myself
+
 # About Martin
-I'm a programmer in London with a bit of spare time. Give me a shout if you want to talk about this project. We can meet for a coffee! martin@martinogg.com
+I'm a programmer in London with a bit of spare time. Give me a shout if you want to talk about this project or anything in general. We can meet for a coffee! martin@martinogg.com
