@@ -26,8 +26,11 @@ Ideas so far for implementation...
 I'll be updating this with links to github repos for the individual projects, but use this as a central repo for documentation for the entire project
 
 # Links
+
 Trello project at https://trello.com/b/A3xLhbEd/lhc-lets-have-coffee 
+
 iOS project at https://github.com/martinogg/LHC-Meetup-iOS
 
 # About Martin
+
 I'm a programmer in London with a bit of spare time. Give me a shout if you want to talk about this project or anything in general. We can meet for a coffee! martin@martinogg.com
