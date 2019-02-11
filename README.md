@@ -20,12 +20,14 @@ Ideas so far for implementation...
 - Use Firebase for back-end users/Event tracking (Using the Frameworks/APIs provided and/or REST API with functions in TS)
 - Keep to Best Practises as much as possible (Testing, clean code architectures)
 - iOS using Swift
-- Cross platform with Angular (I want to learn this!)
+- Cross platform with Angular (I want to learn this!) for iOS, Android and Web-app versions
 - Android using Kotlain
 
 I'll be updating this with links to github repos for the individual projects, but use this as a central repo for documentation for the entire project
 
-Check out https://trello.com/b/A3xLhbEd/lhc-lets-have-coffee for the trello project I'm making for myself
+# Links
+Trello project at https://trello.com/b/A3xLhbEd/lhc-lets-have-coffee 
+iOS project at https://github.com/martinogg/LHC-Meetup-iOS
 
 # About Martin
 I'm a programmer in London with a bit of spare time. Give me a shout if you want to talk about this project or anything in general. We can meet for a coffee! martin@martinogg.com
