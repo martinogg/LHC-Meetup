@@ -19,9 +19,9 @@ Ideas so far for implementation...
 - The project will take the form of a mobile app (iOS and Android), with back-end server online for shared data. 
 - Use Firebase for back-end users/Event tracking (Using the Frameworks/APIs provided and/or REST API with functions in TS)
 - Keep to Best Practises as much as possible (Testing, clean code architectures)
-- iOS using Swift
-- Cross platform with Angular (I want to learn this!) for iOS, Android and Web-app versions
-- Android using Kotlain
+- Prototyping with React Native for iOS and Android
+- A web version (Angular or React)
+- Native mobile versions (iOS/Android) if required in the future
 
 I'll be updating this with links to github repos for the individual projects, but use this as a central repo for documentation for the entire project
 
