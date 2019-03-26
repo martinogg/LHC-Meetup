@@ -27,12 +27,23 @@ I'll be updating this with links to github repos for the individual projects, bu
 
 # Links
 
-Trello project at https://trello.com/b/A3xLhbEd/lhc-lets-have-coffee 
-
-iOS project at https://github.com/martinogg/LHC-Meetup-iOS
+React Native Trello project at https://trello.com/b/IpDnxOno/lhc-rn
 
 React Native project at https://github.com/martinogg/LHC-Meetup-RN
 
-# About Martin
+iOS Trello project at https://trello.com/b/A3xLhbEd/lhc-lets-have-coffee 
+
+iOS project at https://github.com/martinogg/LHC-Meetup-iOS
+
+
+# Current Status
+
+Nothing on the app stores yet! but I hope to get something on as soon as possible.
+
+I'm currently working on the React Native version of the app for now (CI on MS App-Center presently, will build for each PR on both iOS and Android) 
+
+I started the iOS project but very quickly realised it would be better to do it cross platform for MVP/bootstrapping versions to begin with. So this one is presently on hold.
+
+# About Martin 
 
 I'm a programmer in London with a bit of spare time. Give me a shout if you want to talk about this project or anything in general. We can meet for a coffee! martin@martinogg.com
