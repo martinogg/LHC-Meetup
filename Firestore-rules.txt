@@ -1,0 +1,17 @@
+These are the rules for firestore. Copy these in to your own firestore rules if you want to clone the store structure
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+  
+    match /LHC-Users {
+      allow read: if request.auth.uid != null;
+      allow write: if false;
+    }
+    
+    match /LHC-Users/{userId} {
+    
+      allow read: if request.auth.uid != null;
+      allow write: if request.auth.uid == userId;
+    }
+  }
+}
