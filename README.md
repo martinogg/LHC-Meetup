@@ -31,16 +31,13 @@ React Native Trello project at https://trello.com/b/IpDnxOno/lhc-rn
 
 React Native project at https://github.com/martinogg/LHC-Meetup-RN
 
-iOS Trello project at https://trello.com/b/A3xLhbEd/lhc-lets-have-coffee 
-
-iOS project at https://github.com/martinogg/LHC-Meetup-iOS
-
 
 # Current Status
 
-Nothing on the app stores yet! but I hope to get something on as soon as possible.
+[x] Android app on the Play store https://play.google.com/store/apps/details?id=com.martinogg.coffeepro
+[ ] iOS App
 
-I'm currently working on the React Native version of the app for now (CI on MS App-Center presently, will build for each PR on both iOS and Android) 
+I'm currently working on the React Native version of the app for now (CI on MS App-Center presently, will build for each PR on both iOS and Android on PRs) 
 
 I started the iOS project but very quickly realised it would be better to do it cross platform for MVP/bootstrapping versions to begin with. So this one is presently on hold.
 
