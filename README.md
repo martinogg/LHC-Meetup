@@ -35,6 +35,7 @@ React Native project at https://github.com/martinogg/LHC-Meetup-RN
 # Current Status
 
 [x] Android app on the Play store https://play.google.com/store/apps/details?id=com.martinogg.coffeepro
+
 [ ] iOS App
 
 I'm currently working on the React Native version of the app for now (CI on MS App-Center presently, will build for each PR on both iOS and Android on PRs) 
